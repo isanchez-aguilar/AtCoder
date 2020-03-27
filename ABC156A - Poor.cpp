@@ -1,6 +1,6 @@
 /*
 *	User: Isanchez_Aguilar
-*	Problem: AtCoder 156A - Poor 
+*	Problem: AtCoder ABC156A - Poor 
 */
 #include <iostream>
 #include <algorithm>
